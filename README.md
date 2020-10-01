@@ -56,7 +56,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](translations/README.ru.md)</kbd>
 <kbd>[<img title="عربى" alt="عربى" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](translations/README.ar.md)</kbd>
 <kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg" width="22">](translations/README.se.md)</kbd>
-<kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sk.svg" width="22">](translations/README.slk.md)</kbd>
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](translations/README.sl.md)</kbd>
 <kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">](translations/README.th.md)</kbd>
 <kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)</kbd>
